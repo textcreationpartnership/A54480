@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Persuasive letter exhorting the natives of Ireland to stand in deference of their faith, king, and countrey against Parliamentary intruders, their errors, and temeritie directed to Sir N. Th., with a discovery of the tyrannicall pollicie and unfaithfull dealings of some English governors, adherents to the malignant partie, towards their pardoned enemies and surest friends in Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54480</idno><idno type="EEBO-CITATION">13286745</idno>
+  <idno type="VID">98816</idno>
+  <idno type="EEBO-PROQUEST">2240863444</idno>
+  
+            <idno type="STC">Wing P1670</idno>
+            <idno type="STC">ESTC R33387</idno>
+            <idno type="OCLC">13286745</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Persuasive letter exhorting the natives of Ireland to stand in deference of their faith, king, and countrey against Parliamentary intruders, their errors, and temeritie directed to Sir N. Th., with a discovery of the tyrannicall pollicie and unfaithfull dealings of some English governors, adherents to the malignant partie, towards their pardoned enemies and surest friends in Ireland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Warerford [sic] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Th. N.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  History --  17th century.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98816:1"/>
+            <pb facs="tcp:98816:1"/>
+            <p>A PERSVASIVE LETTER EXHORTING THE NATIVES OF IRELAND TO STAND IN DEFENCE Of their Faith, King, and Countrey, against Parliamentary intruders, their errors, and temeritie, directed to Sir. N. Th.</p>
+            <p>VVith a discovery of the Tyrannicall pollicie and unfaithfull dealings of some English Gover<g ref="char:EOLhyphen"/>nors, adherents to the malignant par<g ref="char:EOLhyphen"/>tie, towards their Pardoned Ene<g ref="char:EOLhyphen"/>mies and surest friends in IRELAND.</p>
+            <figure>
+               <p>IHS</p>
+               <figDesc>intricate symmetrical design with crosses</figDesc>
+            </figure>
+            <p>Printed at Warerford, in the year, 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:98816:2"/>
+            <head>To the Curteous Reader.</head>
+            <p>THis following Letter, and discovery being first written to a Gentleman of note, was by him imparted to others, and desired by many more, to whom it may be no lesse needfull then it was to the first, who therefore is well pleased, to have it coppied, and presented to the fight and consideration of other Native gentlemen, desiring no more favour at their hands, then to peruse it with attentive eye, and se<g ref="char:EOLhyphen"/>rious consideration, to compare the acts of former ages to what is daily practised, and not unlike to follow, if the credulous bounty of the Natives shall yeeld to beleeve and trust to the perfidius promises of English Parliamentary usurpers, &amp; their fained adherents.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <opener>
+               <salute>DEERELY BELOVED,</salute>
+            </opener>
+            <p>I have received your Letter, expressing the perplexity of your anxious minde tossed betweene Feare and Hope: The one forced by some ill successe happened since the Commo<g ref="char:EOLhyphen"/>tion, the other fostered by the allurements of some friends, promising both pardon and secu<g ref="char:EOLhyphen"/>ritie upon your submitment. Hereupon you write that if shame and reproach hath not gi<g ref="char:EOLhyphen"/>ven you a rubbe in your way; feare hath with<g ref="char:EOLhyphen"/>drawne your hand and heart from your asso<g ref="char:EOLhyphen"/>ciat Catholickes, and if mistrust of perfor<g ref="char:EOLhyphen"/>mance had not interrupted your designe, hope
+<pb facs="tcp:98816:2"/> of security and favour had forcedly induced thee to submit and joyne with our professed enemies, yet having neyther utterly rejected your associat Catholicks, nor yeelded unto the perswasions of submitment, you rest doubtfull, not knowing what way to take without the ad<g ref="char:EOLhyphen"/>vise of friends, among whom, as you have been pleased to hold me for one; I desire that (for setling of your perplexity) you may set aside those inordinate passions of feare, &amp; hope, and with a setled minde seriously consider the cause ground &amp; motives, whereby both parties (both the <hi>Irish</hi> with whom you joyne, and the <hi>English,</hi> to whom you are allured to submit) are induced to this commotion. You are not to measure the justice of your proceedings by the event of their actions, but by the equity of their cause. The <hi>Irish</hi> doe stand in defence of Gods cause, their Faith, King, and Countrie endevouring without bloudshed to maintaine the Catholick faith against Sectaries; the Kings prerogative and right against the Parliament, and the liber<g ref="char:EOLhyphen"/>ty of their Countrie against a swarme of most malignant supplanting invaders. On the other side, the malignant party is knowne to stand for heresie parliament and their proper gayne: labouring with force of Armes, cruell massa<g ref="char:EOLhyphen"/>cres unparaleld tyrannie, to plant puritanisme
+<pb facs="tcp:98816:3"/> against true faith; Parliamentary presumption against their annointed King, and the cove<g ref="char:EOLhyphen"/>tous and pernicious intrusion of alliens against the Catholicke Natives both <hi>English</hi> and <hi>Irish</hi> whom these new-comming upstarts doe hold to be equally worthy of an utter extinction. Consider therefore your duty to God, your loyalty to his Majesty, &amp; the love you owe un<g ref="char:EOLhyphen"/>to your native Countrie, and the light of rea<g ref="char:EOLhyphen"/>son will guide you to conceive that as no feare ought to with-draw you from the defence of your faith, King and Countrie; so no hope may suffice to cause you to adhere unto their proses<g ref="char:EOLhyphen"/>sed enemies. Their prosperous beginning, and some ill successe of ours ought not to dismay a man-like minde. The successe of the like acti<g ref="char:EOLhyphen"/>ons, is various, and never so fast fixed unto the one side, but it may step over unto the other. Are not many faire dayes ended with stormie nights? Was not great <hi>Pompey</hi> his victorious fortune, concluded with the losse of all: Be<g ref="char:EOLhyphen"/>leeve me that this prosperous begining against truth and right can yeeld no better successe then a finall calamitie: As your crosse entrie, may happily be crowned with a glorious lustre. And for their threats &amp; danger of loosing your life, goods and reputation, you neede not doubt of their minde, but the effect is not alwayes an<g ref="char:EOLhyphen"/>swerable
+<pb facs="tcp:98816:3"/> unto their wishes. And to cast the worst if these disasters should fall out according their threatnings, you are to consider that this corporall life is not everlasting, neyther are your temporall goods of a permanent stan<g ref="char:EOLhyphen"/>ding: the one being lyable to the debt of Na<g ref="char:EOLhyphen"/>ture, and the other to daily changes. As you cannot therefore but know that you have re<g ref="char:EOLhyphen"/>ceived the ground of life and your meanes from God, and the continuance of both (un<g ref="char:EOLhyphen"/>der God) by his Majesties protecting hand, how can that life (which once must forsake) be better imployed then in defence of Gods cause and his Majesties right? adde hereunto the ease of your Country, the safetie of your friends and issue from the most tyrannicall yoake of these malignant supplanting intruders, and it will appeare a cause of lesse feare, griefe and terrour, to loose both life and goods for so just a cause, then to enjoy them to helpe the bane of Faith, King and Country. But you vade further then this present life, concerning a danger of infa<g ref="char:EOLhyphen"/>mie after death, because that the Parliament in <hi>England</hi> hath declared all his Majesties adhe<g ref="char:EOLhyphen"/>rents and servitors in this present time &amp; cause, to bee deemed and pursued as Rebels. As I may not but allow of your sensible care to main<g ref="char:EOLhyphen"/>tayne your good name: I cannot but wonder
+<pb facs="tcp:98816:4"/> that any man of sense or judgment should feare infamy in this behalfe: as if it were treason to serve the King and assist him in his greatest neede, and loyaltie forsooth to comply with the disloyall designes of a rebellious Par<g ref="char:EOLhyphen"/>liament against their Soveraigne. Remember I pray that your alleagiance is not due unto a Parliament, but unto the King, neyther is <hi>Ire<g ref="char:EOLhyphen"/>land</hi> a parliamentary province, but an undoub<g ref="char:EOLhyphen"/>ted kingdome subject to the Majesty of a gra<g ref="char:EOLhyphen"/>cious King, and not to the presumptious inva<g ref="char:EOLhyphen"/>sions of a life-lesse Parliamentary Carcasse. I miscall it not, for seeing that the King is the onely head, life and breath of a Parliament-body, when the same is rebelliously severed from that head, that life and that breath, what can it be but an <hi>Acephalion</hi> or head-lesse Car<g ref="char:EOLhyphen"/>casse without any life of law, or right. If the phantasticall spirit of this life-lesse body Poli<g ref="char:EOLhyphen"/>ticke will deeme the Kings servants Rebels, with more reason all men will deeme them, and their complices, to be most outragious Tray<g ref="char:EOLhyphen"/>tors, against God, and their Soveraigne. If therefore of necessity, men must be in this age esteemed Rebels, what part soever they hold, I deeme it lesse fearefull, and prejudiciall to your soule, life, and fame, to be miscalled a Majesti<g ref="char:EOLhyphen"/>call Rebell, for serving the King, then to bee
+<pb facs="tcp:98816:4"/> really a Parliamentary Traytor, joyning with a Crew of malignant miscreants against their Soveraigne.</p>
+            <p>This much considered of your Panincke-feare, may discover your vaine hope of securi<g ref="char:EOLhyphen"/>tie by protection, for the Parliament being (as it is) severed, and opposite to his Majesty hath neyther lawfull power to grant pardons, nor the intention to performe what might be pro<g ref="char:EOLhyphen"/>mised in that behalfe. The authority of par<g ref="char:EOLhyphen"/>doning treasonable offences, is no lesse essenti<g ref="char:EOLhyphen"/>all to the power of a King, then his Imperiall Crowne and Scepter is proper to his Majestie: It cannot therefore stand in the hands of the most loyall Subjects undependant from the King, much lesse can it be proper to disloyall, and trayterous usurpers, such as the members of this Parliament prove thēselves to be, ende<g ref="char:EOLhyphen"/>vouring by other inormities to bereave his Ma<g ref="char:EOLhyphen"/>jestie of his pardoning prerogative, which can<g ref="char:EOLhyphen"/>not produce the desired effect of safety and se<g ref="char:EOLhyphen"/>curity, without the gracious influence of Roy<g ref="char:EOLhyphen"/>all assent, wherefore as you cannot but know, that they are no Kings, bee likewise assured, that being opposite to the King, they have not the power to grant warrantable pardons. And if they had, it is not manifest, that their minde and intention is farre from the performance of
+<pb facs="tcp:98816:5"/> their promise, whereas in this very Parliament they have voted and decreed, that all such men, aswell of the <hi>English,</hi> as the <hi>Irish</hi> race, as have ta<g ref="char:EOLhyphen"/>ken Armes in this cause &amp; action, shall be ever excluded from all hope of safety, &amp; never per<g ref="char:EOLhyphen"/>mitted to enjoy life or inheritance. This decree yeelds but cold comfort unto your hopefull se<g ref="char:EOLhyphen"/>curitie promised by pardon. It is not like that these absolute votaries have reserved intention to preserve life and estate, contrary to this their Parliamentarie decree, and their usuall practise: you are not the first that hath beene deluded with faire promises of securitie, and pardon, which avayled them no further, then till their leasure did serve to cut them short, under pre<g ref="char:EOLhyphen"/>tence of some other cause, or faigned offence, wherof the examples are Tragicall, &amp; many &amp; most worthy of cōsideratiō, to know that there is asmuch disaster to be expected by <hi>Parliament</hi> pardons, and frindship, as any man may feare from the violence of their Sword &amp; hatred. Be not therefore so much affrighted as that you should inconsideratly fall from your standing, to the prejudice of so just a cause, nor so far de<g ref="char:EOLhyphen"/>luded with vaine hope, as to cast your selfe headlong into the deceitfull snares of unfaith<g ref="char:EOLhyphen"/>full promises, with most certaine danger of your life, losse of soule and goods, and remedy-lesse griefe of</p>
+            <closer>
+               <signed>Your ever assured friend Th. N.</signed>
+            </closer>
+            <pb facs="tcp:98816:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
